@@ -5,10 +5,10 @@
 * Modular design allowing you to implement your own trading system
 * Open API's with no lock-ins (MIT or BSD licensed)
 * Market making supported through very low latency (single digit microsecond software response times)
-* Free tools (with a strong motivation to open source key logic, when possible)
+* Free tools (with a strong motivation to open source key logic, whenever possible)
 * Gateways require a license agreement (free to download and use for evaluation and development purposes)
 
-> We do not do NDA.
+> We do not do NDA
 
 
 ## Design
