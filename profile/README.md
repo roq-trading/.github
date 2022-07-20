@@ -23,7 +23,7 @@ The API is designed to make it easy to switch between simulation and live tradin
 without having to change the strategy code.
 Strategies should preferably be implemented using C++20.
 
-> There is experimental Python support but we do not recommend this for anything
+> There is experimental Python support but we do not recommend it for anything
 > low latency.
 
 
