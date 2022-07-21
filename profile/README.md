@@ -1,9 +1,6 @@
 # Roq Trading Solutions
 
 
-> We do not do NDA
-
-
 ## What
 
 * API's, libraries and tools to build your own low latency trading system
@@ -19,6 +16,9 @@
 * Modular design allowing you to implement your own trading system
 * Very low latency to support market making (single digit microsecond software response time on a high-end server)
 * Gateways require a license agreement but are free to download and use for evaluation and development purposes
+
+> We do not do NDA
+
 
 ## Design
 
