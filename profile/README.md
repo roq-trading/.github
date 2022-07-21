@@ -12,9 +12,9 @@
 ## Framework / Objectives
 
 * Open API with no lock-in (MIT license)
-* Tools are free to use with a strong motivation to open source
+* Tools are free to use (with a strong motivation to open source)
 * Very low latency to support market making (single digit microsecond software response time on a high-end server)
-* Gateways require a license agreement but are free to download and use for evaluation and development purposes
+* Gateways require a license agreement (but are free to download and use for evaluation and development purposes)
 
 > We do not do NDA
 
