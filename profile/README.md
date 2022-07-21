@@ -1,5 +1,10 @@
 # Roq Trading Solutions
 
+## What
+
+API's and tools to build your own low latency trading system.
+
+
 ## Objectives
 
 * Open API with no lock-in (MIT license)
