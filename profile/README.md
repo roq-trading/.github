@@ -2,8 +2,10 @@
 
 ## What
 
-API's and tools to build your own low latency trading system.
-
+* API's, libraries and tools to build your own low latency trading system
+* Gateways supporting market data and order management
+* Event logs to create your own historical database
+* Simulation framework
 
 ## Objectives
 
