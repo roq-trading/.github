@@ -5,8 +5,8 @@
 * Open API with no lock-in (MIT license)
 * Modular design allowing you to implement your own trading system
 * Very low latency to support market making (single digit microsecond software response times)
-* Tools are free to use (with a strong motivation to open source, whenever possible)
-* Gateways require a license agreement (free to download and use for evaluation and development purposes)
+* Tools are free to use with a strong motivation to open source
+* Gateways require a license agreement but are free to download and use for evaluation / development purposes
 
 > We do not do NDA
 
