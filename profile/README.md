@@ -5,7 +5,7 @@
 
 * API's, libraries and tools so you can build your own low latency trading system
 * Gateways supporting market data and order management
-* Event logs to create your own historical database
+* Event logs to capture historical data
 * Simulation framework
 
 
