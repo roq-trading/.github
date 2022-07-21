@@ -2,10 +2,10 @@
 
 ## Objectives
 
-* Open API with no lock-in (MIT licensed)
+* Open API with no lock-in (MIT license)
 * Modular design allowing you to implement your own trading system
-* Market making supported through very low latency (single digit microsecond software response times)
-* Free tools (with a strong motivation to open source key logic, whenever possible)
+* Very low latency to support market making (single digit microsecond software response times)
+* Tools are free to use (with a strong motivation to open source, whenever possible)
 * Gateways require a license agreement (free to download and use for evaluation and development purposes)
 
 > We do not do NDA
