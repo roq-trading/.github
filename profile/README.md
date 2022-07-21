@@ -28,7 +28,7 @@
 
 An API provides you with a uniform interface to communicate with the gateways.
 The API is designed to make it easy to switch between simulation and live trading
-without having to change the strategy code.
+without having to change strategy code.
 Strategies should preferably be implemented using C++20.
 
 > There is experimental Python support but we do not recommend it for anything
