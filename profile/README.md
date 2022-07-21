@@ -7,7 +7,7 @@
 * Event logs to create your own historical database
 * Simulation framework
 
-## Objectives
+## Goals
 
 * Open API with no lock-in (MIT license)
 * Tools are free to use with a strong motivation to open source
