@@ -43,9 +43,9 @@ Strategies should preferably be implemented using C++20.
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/roq-coinbase-pro/)
 * [Deribit](https://roq-trading.com/docs/reference/gateways/roq-deribit/) ... including support for the **multicast** protocol
 * [FTX](https://roq-trading.com/docs/reference/gateways/roq-ftx/)
-* Huobi [spot](https://roq-trading.com/docs/reference/gateways/roq-huobi/) [futures](https://roq-trading.com/docs/reference/gateways/roq-huobi-futures/)
-* Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
-* KuCoin [spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/) [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/)
+* Huobi [spot](https://roq-trading.com/docs/reference/gateways/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-huobi-futures/)
+* Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
+* KuCoin [spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/)
 * [OKX](https://roq-trading.com/docs/reference/gateways/roq-okx/)
 * ... and [more](https://roq-trading.com/docs/introduction/gateways/)
 
