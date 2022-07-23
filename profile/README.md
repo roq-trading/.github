@@ -47,7 +47,8 @@ Strategies should preferably be implemented using C++20.
 * Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
 * KuCoin [spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/)
 * [OKX](https://roq-trading.com/docs/reference/gateways/roq-okx/)
-* ... and [more](https://roq-trading.com/docs/introduction/gateways/)
+
+... and [more](https://roq-trading.com/docs/introduction/gateways/)
 
 
 ## Event Logs
@@ -62,7 +63,8 @@ database.
 
 * [ClickHouse](https://roq-trading.com/docs/reference/adapters/roq-clickhouse/)
   on [GitHub](https://github.com/roq-trading/roq-clickhouse-adapter)
-* ... and [more](https://roq-trading.com/docs/reference/adapters/)
+
+... and [more](https://roq-trading.com/docs/reference/adapters/)
 
 > We strongly recommend [ClickHouse](https://clickhouse.com/) which provides
 > exceptionally good performance vs ease-of-use.
@@ -76,7 +78,8 @@ database.
   on [GitHub](https://github.com/roq-trading/roq-redis-bridge)
 * [ZeroMQ](https://roq-trading.com/docs/reference/bridges/roq-zeromq-bridge/)
   on [GitHub](https://github.com/roq-trading/roq-zeromq-bridge)
-* ... and [more](https://roq-trading.com/docs/reference/bridges/)
+
+... and [more](https://roq-trading.com/docs/reference/bridges/)
 
 > We aim to integrate with the major third-party vendors.
 > Please [reach out](mailto:info@roq-trading.com) if you have specific requirements.
