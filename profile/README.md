@@ -85,9 +85,12 @@ database.
 > Please [reach out](mailto:info@roq-trading.com) if you have specific requirements.
 
 
-## Metrics / Alerts / Dashboard
+## Metrics / Alerts / Dashboards
 
 All components support [Prometheus](https://prometheus.io/)' exposition format.
 [AlertManager](https://prometheus.io/docs/alerting/latest/alertmanager/)
 allows you to automatically send alerts based on exceptional conditions.
 [Grafana](https://grafana.com/) allows you to build custom monitoring dashboards.
+
+> Please [reach out](mailto:info@roq-trading.com) if you have questions about
+> integration with alternative monitoring solutions.
