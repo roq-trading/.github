@@ -61,19 +61,16 @@ database.
 
 ## Adapters
 
-> We strongly recommend [ClickHouse](https://clickhouse.com/) which provides
-> exceptionally good performance vs ease-of-use.
-
 * [ClickHouse](https://roq-trading.com/docs/reference/adapters/roq-clickhouse/)
   on [GitHub](https://github.com/roq-trading/roq-clickhouse-adapter)
 
 ... and [more](https://roq-trading.com/docs/reference/adapters/)
 
+> We strongly recommend [ClickHouse](https://clickhouse.com/) which provides
+> exceptionally good performance vs ease-of-use.
+
 
 ## Bridges
-
-> We aim to integrate with the major open source project and third-party vendors.
-> Please [reach out](mailto:info@roq-trading.com) if you have specific requirements.
 
 * [FIX](https://roq-trading.com/docs/reference/bridges/roq-fix-bridge/)
 * [JSON](https://roq-trading.com/docs/reference/bridges/roq-json-bridge/)
@@ -83,6 +80,9 @@ database.
   on [GitHub](https://github.com/roq-trading/roq-zeromq-bridge)
 
 ... and [more](https://roq-trading.com/docs/reference/bridges/)
+
+> We aim to integrate with the major open source project and third-party vendors.
+> Please [reach out](mailto:info@roq-trading.com) if you have specific requirements.
 
 
 ## Metrics / Alerts / Dashboard
