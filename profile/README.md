@@ -37,15 +37,15 @@ Strategies should preferably be implemented using C++20.
 
 ## Exchanges / Gateways
 
-* Binance ([spot](https://roq-trading.com/docs/reference/gateways/roq-binance/), [futures](https://roq-trading.com/docs/reference/gateways/roq-binance-futures/))
+* Binance [spot](https://roq-trading.com/docs/reference/gateways/roq-binance/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-binance-futures/)
 * [BitMEX](https://roq-trading.com/docs/reference/gateways/roq-bitmex/)
-* Bybit ([spot](https://roq-trading.com/docs/reference/gateways/roq-bybit/), [futures](https://roq-trading.com/docs/reference/gateways/roq-bybit-futures/))
+* Bybit [spot](https://roq-trading.com/docs/reference/gateways/roq-bybit/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-bybit-futures/)
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/roq-coinbase-pro/)
 * [Deribit](https://roq-trading.com/docs/reference/gateways/roq-deribit/) ... including support for the **multicast** protocol
 * [FTX](https://roq-trading.com/docs/reference/gateways/roq-ftx/)
-* Huobi ([spot](https://roq-trading.com/docs/reference/gateways/roq-huobi/), [futures](https://roq-trading.com/docs/reference/gateways/roq-huobi-futures/))
-* Kraken ([spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/), [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/))
-* KuCoin ([spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/), [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/))
+* Huobi [spot](https://roq-trading.com/docs/reference/gateways/roq-huobi/) [futures](https://roq-trading.com/docs/reference/gateways/roq-huobi-futures/)
+* Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
+* KuCoin [spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/) [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/)
 * [OKX](https://roq-trading.com/docs/reference/gateways/roq-okx/)
 * ... and [more](https://roq-trading.com/docs/introduction/gateways/)
 
@@ -61,7 +61,7 @@ database.
 ## Adapters
 
 * [ClickHouse](https://roq-trading.com/docs/reference/adapters/roq-clickhouse/)
-  ([GitHub](https://github.com/roq-trading/roq-clickhouse-adapter))
+  on [GitHub](https://github.com/roq-trading/roq-clickhouse-adapter)
 * ... and [more](https://roq-trading.com/docs/reference/adapters/)
 
 > We strongly recommend [ClickHouse](https://clickhouse.com/) which provides
@@ -73,9 +73,9 @@ database.
 * [FIX](https://roq-trading.com/docs/reference/bridges/roq-fix-bridge/)
 * [JSON](https://roq-trading.com/docs/reference/bridges/roq-json-bridge/)
 * [Redis](https://roq-trading.com/docs/reference/bridges/roq-redis-bridge/)
-  ([GitHub](https://github.com/roq-trading/roq-redis-bridge))
+  on [GitHub](https://github.com/roq-trading/roq-redis-bridge)
 * [ZeroMQ](https://roq-trading.com/docs/reference/bridges/roq-zeromq-bridge/)
-  ([GitHub](https://github.com/roq-trading/roq-zeromq-bridge))
+  on [GitHub](https://github.com/roq-trading/roq-zeromq-bridge)
 * ... and [more](https://roq-trading.com/docs/reference/bridges/)
 
 > We aim to integrate with the major third-party vendors.
