@@ -81,7 +81,7 @@ database.
 
 ... and [more](https://roq-trading.com/docs/reference/bridges/)
 
-> We aim to integrate with the major open source project and third-party vendors.
+> We aim to integrate with the major open source projects and third-party vendors.
 > Please [reach out](mailto:info@roq-trading.com) if you have specific requirements.
 
 
