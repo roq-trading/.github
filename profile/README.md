@@ -92,5 +92,5 @@ All components support [Prometheus](https://prometheus.io/)' exposition format.
 allows you to automatically send alerts based on exceptional conditions.
 [Grafana](https://grafana.com/) allows you to build custom monitoring dashboards.
 
-> Please [reach out](mailto:info@roq-trading.com) if you have questions about
+> Please [reach out](mailto:info@roq-trading.com) if you have any questions about
 > integration with alternative monitoring solutions.
