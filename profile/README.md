@@ -57,14 +57,6 @@ The full list can be found [here](https://roq-trading.com/docs/introduction/gate
 * [OKX](https://roq-trading.com/docs/reference/gateways/roq-okx/)
 
 
-## Event Logs
-
-Events (messages) are collected into a log which can be used for simulation,
-query (_"what happened?"_) and export to third-party database solutions.
-The event logs are backwards compatible and therefore the basis for a historical
-database.
-
-
 ## Bridges
 
 * [FIX](https://roq-trading.com/docs/reference/bridges/roq-fix-bridge/)
@@ -89,6 +81,14 @@ database.
 
 > We strongly recommend [ClickHouse](https://clickhouse.com/) which provides
 > exceptionally good performance vs ease-of-use.
+
+
+## Event Logs
+
+Events (messages) are collected into a log which can be used for simulation,
+query (_"what happened?"_) and export to third-party database solutions.
+The event logs are backwards compatible and therefore the basis for a historical
+database.
 
 
 ## Metrics / Alerts / Dashboards
