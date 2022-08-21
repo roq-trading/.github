@@ -65,17 +65,6 @@ The event logs are backwards compatible and therefore the basis for a historical
 database.
 
 
-## Adapters
-
-* [ClickHouse](https://roq-trading.com/docs/reference/adapters/roq-clickhouse/)
-  on [GitHub](https://github.com/roq-trading/roq-clickhouse-adapter)
-
-... and [more](https://roq-trading.com/docs/reference/adapters/)
-
-> We strongly recommend [ClickHouse](https://clickhouse.com/) which provides
-> exceptionally good performance vs ease-of-use.
-
-
 ## Bridges
 
 * [FIX](https://roq-trading.com/docs/reference/bridges/roq-fix-bridge/)
@@ -89,6 +78,17 @@ database.
 
 > We aim to integrate with the major open source projects and third-party vendors.
 > Please [reach out](mailto:info@roq-trading.com) if you have specific requirements.
+
+
+## Adapters
+
+* [ClickHouse](https://roq-trading.com/docs/reference/adapters/roq-clickhouse/)
+  on [GitHub](https://github.com/roq-trading/roq-clickhouse-adapter)
+
+... and [more](https://roq-trading.com/docs/reference/adapters/)
+
+> We strongly recommend [ClickHouse](https://clickhouse.com/) which provides
+> exceptionally good performance vs ease-of-use.
 
 
 ## Metrics / Alerts / Dashboards
