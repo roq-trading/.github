@@ -37,6 +37,14 @@ Strategies should preferably be implemented using C++20.
 
 ## Exchanges / Gateways
 
+The full list can be found [ehre](https://roq-trading.com/docs/introduction/gateways/).
+
+### Traditional
+
+* [CME](https://roq-trading.com/docs/reference/gateways/roq-cme/)
+
+### Cryptocurrency
+
 * Binance [spot](https://roq-trading.com/docs/reference/gateways/roq-binance/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-binance-futures/)
 * [BitMEX](https://roq-trading.com/docs/reference/gateways/roq-bitmex/)
 * Bybit [spot](https://roq-trading.com/docs/reference/gateways/roq-bybit/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-bybit-futures/)
@@ -47,8 +55,6 @@ Strategies should preferably be implemented using C++20.
 * Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
 * KuCoin [spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/)
 * [OKX](https://roq-trading.com/docs/reference/gateways/roq-okx/)
-
-... and [more](https://roq-trading.com/docs/introduction/gateways/)
 
 
 ## Event Logs
