@@ -37,7 +37,7 @@ Strategies should preferably be implemented using C++20.
 
 ## Exchanges / Gateways
 
-The full list can be found [ehre](https://roq-trading.com/docs/introduction/gateways/).
+The full list can be found [here](https://roq-trading.com/docs/introduction/gateways/).
 
 ### Traditional
 
