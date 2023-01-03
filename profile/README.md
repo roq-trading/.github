@@ -50,7 +50,6 @@ The full list can be found [here](https://roq-trading.com/docs/introduction/gate
 * Bybit [spot](https://roq-trading.com/docs/reference/gateways/roq-bybit/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-bybit-futures/)
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/roq-coinbase-pro/)
 * [Deribit](https://roq-trading.com/docs/reference/gateways/roq-deribit/) including support for the **multicast** protocol
-* [FTX](https://roq-trading.com/docs/reference/gateways/roq-ftx/)
 * Huobi [spot](https://roq-trading.com/docs/reference/gateways/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-huobi-futures/)
 * Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
 * KuCoin [spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/)
