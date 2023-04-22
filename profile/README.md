@@ -41,7 +41,7 @@ Strategies should preferably be implemented using C++20.
 
 ### Traditional
 
-* [CME](https://roq-trading.com/docs/reference/gateways/roq-cme/)
+* [CME](https://roq-trading.com/docs/reference/gateways/roq-cme/) -- supports the full MBO (Market by Order) feed for L3 data
 
 ### Cryptocurrency
 
