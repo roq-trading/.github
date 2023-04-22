@@ -37,7 +37,7 @@ Strategies should preferably be implemented using C++20.
 
 ## Exchanges / Gateways
 
-The full list can be found [here](https://roq-trading.com/docs/introduction/gateways/).
+> The full list can be found [here](https://roq-trading.com/docs/introduction/gateways/).
 
 ### Traditional
 
@@ -55,8 +55,6 @@ The full list can be found [here](https://roq-trading.com/docs/introduction/gate
 * Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
 * KuCoin [spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/)
 * [OKX](https://roq-trading.com/docs/reference/gateways/roq-okx/)
-
-... and [more](https://roq-trading.com/docs/reference/gateways/)
 
 ## Bridges
 
