@@ -41,7 +41,7 @@ Strategies should preferably be implemented using C++20.
 
 ### Traditional
 
-* [CME](https://roq-trading.com/docs/reference/gateways/roq-cme/) -- supports Market by Order (full depth MBO)
+* [CME](https://roq-trading.com/docs/reference/gateways/roq-cme/) -- supports Market by Order (**full depth MBO**)
 
 ### Cryptocurrency
 
@@ -49,7 +49,7 @@ Strategies should preferably be implemented using C++20.
 * [BitMEX](https://roq-trading.com/docs/reference/gateways/roq-bitmex/)
 * Bybit [spot](https://roq-trading.com/docs/reference/gateways/roq-bybit/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-bybit-futures/)
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/roq-coinbase-pro/)
-* [Deribit](https://roq-trading.com/docs/reference/gateways/roq-deribit/) -- supports the **multicast** protocol
+* [Deribit](https://roq-trading.com/docs/reference/gateways/roq-deribit/) -- supports the **SBE multicast** protocol
 * Gate.io [spot](https://roq-trading.com/docs/reference/gateways/roq-gate/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-gate-futures/)
 * Huobi [spot](https://roq-trading.com/docs/reference/gateways/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-huobi-futures/)
 * Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
