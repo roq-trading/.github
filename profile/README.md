@@ -62,8 +62,6 @@ Strategies should preferably be implemented using C++20.
 * [JSON](https://roq-trading.com/docs/reference/bridges/roq-json-bridge/)
 * [Redis](https://roq-trading.com/docs/reference/bridges/roq-redis-bridge/)
   on [GitHub](https://github.com/roq-trading/roq-redis-bridge)
-* [ZeroMQ](https://roq-trading.com/docs/reference/bridges/roq-zeromq-bridge/)
-  on [GitHub](https://github.com/roq-trading/roq-zeromq-bridge)
 
 ... and [more](https://roq-trading.com/docs/reference/bridges/)
 
