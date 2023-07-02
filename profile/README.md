@@ -41,7 +41,7 @@ Strategies should preferably be implemented using C++20.
 
 ### Traditional
 
-* [CME](https://roq-trading.com/docs/reference/gateways/roq-cme/) -- supports order management (iLink) and market data (MBO and MBP)
+* [CME](https://roq-trading.com/docs/reference/gateways/roq-cme/) -- supports iLink, MBO and MBP
 
 ### Cryptocurrency
 
