@@ -49,7 +49,7 @@ Strategies should preferably be implemented using C++20.
 * [BitMEX](https://roq-trading.com/docs/reference/gateways/roq-bitmex/)
 * [Bybit](https://roq-trading.com/docs/reference/gateways/roq-bybit-v5/)
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/roq-coinbase-pro/)
-* [Deribit](https://roq-trading.com/docs/reference/gateways/roq-deribit/) -- supports multicast (SBE)
+* [Deribit](https://roq-trading.com/docs/reference/gateways/roq-deribit/) -- supports multicast
 * Gate.io [spot](https://roq-trading.com/docs/reference/gateways/roq-gate/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-gate-futures/)
 * Huobi [spot](https://roq-trading.com/docs/reference/gateways/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-huobi-futures/)
 * Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
