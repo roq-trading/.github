@@ -59,9 +59,6 @@ Strategies should preferably be implemented using C++23.
 ## Bridges
 
 * [FIX](https://roq-trading.com/docs/reference/bridges/roq-fix-bridge/)
-* [JSON](https://roq-trading.com/docs/reference/bridges/roq-json-bridge/)
-* [Redis](https://roq-trading.com/docs/reference/bridges/roq-redis-bridge/)
-  on [GitHub](https://github.com/roq-trading/roq-redis-bridge)
 
 ... and [more](https://roq-trading.com/docs/reference/bridges/)
 
@@ -72,7 +69,6 @@ Strategies should preferably be implemented using C++23.
 ## Adapters
 
 * [ClickHouse](https://roq-trading.com/docs/reference/adapters/roq-clickhouse/)
-  on [GitHub](https://github.com/roq-trading/roq-clickhouse-adapter)
 
 ... and [more](https://roq-trading.com/docs/reference/adapters/)
 
