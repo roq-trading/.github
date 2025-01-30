@@ -41,26 +41,26 @@ Strategies should preferably be implemented using C++23.
 
 ### Traditional
 
-* [CME](https://roq-trading.com/docs/reference/gateways/roq-cme/) -- supports iLink, MBO and MBP
+* [CME](https://roq-trading.com/docs/reference/gateways/traditional/roq-cme/) -- supports iLink, MBO and MBP
 
 ### Cryptocurrency
 
-* Binance [spot](https://roq-trading.com/docs/reference/gateways/roq-binance/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-binance-futures/)
-* [BitMEX](https://roq-trading.com/docs/reference/gateways/roq-bitmex/)
-* [Bybit](https://roq-trading.com/docs/reference/gateways/roq-bybit/)
-* [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/roq-coinbase-pro/)
-* [Deribit](https://roq-trading.com/docs/reference/gateways/roq-deribit/) -- supports multicast
-* Gate.io [spot](https://roq-trading.com/docs/reference/gateways/roq-gate/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-gate-futures/)
-* Huobi [spot](https://roq-trading.com/docs/reference/gateways/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-huobi-futures/)
-* Kraken [spot](https://roq-trading.com/docs/reference/gateways/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kraken-futures/)
-* KuCoin [spot](https://roq-trading.com/docs/reference/gateways/roq-kucoin/) and [futures](https://roq-trading.com/docs/reference/gateways/roq-kucoin-futures/)
-* [OKX](https://roq-trading.com/docs/reference/gateways/roq-okx/)
+* Binance [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance-futures/)
+* [BitMEX](https://roq-trading.com/docs/reference/gateways/crypto/roq-bitmex/)
+* [Bybit](https://roq-trading.com/docs/reference/gateways/crypto/roq-bybit/)
+* [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-coinbase-pro/)
+* [Deribit](https://roq-trading.com/docs/reference/gateways/crypto/roq-deribit/) -- supports multicast
+* Gate.io [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate-futures/)
+* Huobi [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi-futures/)
+* Kraken [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kraken-futures/)
+* KuCoin [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-futures/)
+* [OKX](https://roq-trading.com/docs/reference/gateways/crypto/roq-okx/)
 
 ## Bridges
 
-* [FIX](https://roq-trading.com/docs/reference/bridges/roq-fix-bridge/)
+* [FIX](https://roq-trading.com/docs/reference/clients/bridges/roq-fix-bridge/)
 
-... and [more](https://roq-trading.com/docs/reference/bridges/)
+... and [more](https://roq-trading.com/docs/reference/clients/bridges/)
 
 > We aim to integrate with the major open source projects and third-party vendors.
 > Please [reach out](mailto:info@roq-trading.com) if you have specific requirements.
@@ -68,9 +68,9 @@ Strategies should preferably be implemented using C++23.
 
 ## Adapters
 
-* [ClickHouse](https://roq-trading.com/docs/reference/adapters/roq-clickhouse/)
+* [ClickHouse](https://roq-trading.com/docs/reference/clients/adapters/roq-clickhouse/)
 
-... and [more](https://roq-trading.com/docs/reference/adapters/)
+... and [more](https://roq-trading.com/docs/reference/clients/adapters/)
 
 > We strongly recommend [ClickHouse](https://clickhouse.com/) which provides
 > exceptionally good performance vs ease-of-use.
