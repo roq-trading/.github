@@ -41,7 +41,7 @@ Strategies should preferably be implemented using C++26.
 
 ### Traditional
 
-* [CME](https://roq-trading.com/docs/reference/gateways/traditional/roq-cme/) -- supports iLink, MBO and MBP
+* [CME](https://roq-trading.com/docs/reference/gateways/traditional/roq-cme/)
 
 ### Cryptocurrency
 
@@ -52,7 +52,7 @@ Strategies should preferably be implemented using C++26.
 * BTSE [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-btse-futures/)
 * [Bybit](https://roq-trading.com/docs/reference/gateways/crypto/roq-bybit/)
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-coinbase-pro/)
-* [Deribit](https://roq-trading.com/docs/reference/gateways/crypto/roq-deribit/) -- supports SBE/multicast
+* [Deribit](https://roq-trading.com/docs/reference/gateways/crypto/roq-deribit/)
 * Gate.io [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate-futures/)
 * HTX [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-htx/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-htx-futures/)
 * Huobi [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi-futures/)
