@@ -61,7 +61,8 @@ Strategies should preferably be implemented using C++26.
 * KuCoin [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin/), [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-futures/) and [PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-pro/)
 * [OKX](https://roq-trading.com/docs/reference/gateways/crypto/roq-okx/)
 * Phemex [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-phemex/) and [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-phemex-futures/)
-* Deribit's [Starbase](https://roq-trading.com/docs/reference/gateways/crypto/roq-starbase/) -- EXPERIMENTAL
+
+... and experimental support for Deribit's [Starbase](https://roq-trading.com/docs/reference/gateways/crypto/roq-starbase/)
 
 ## Bridges
 
