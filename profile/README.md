@@ -29,7 +29,7 @@
 An API provides you with a uniform interface to communicate with the gateways.
 The API is designed to make it easy to switch between simulation and live trading
 without having to change strategy code.
-Strategies should preferably be implemented using C++23.
+Strategies should preferably be implemented using C++26.
 
 > There is experimental Python support but we do not recommend it for anything
 > low latency.
@@ -45,16 +45,23 @@ Strategies should preferably be implemented using C++23.
 
 ### Cryptocurrency
 
+* Aster [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-aster-futures/)
 * Binance [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance-futures/)
+* [Bitget](https://roq-trading.com/docs/reference/gateways/crypto/roq-bitget/)
 * [BitMEX](https://roq-trading.com/docs/reference/gateways/crypto/roq-bitmex/)
+* BTSE [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-btse-futures/)
 * [Bybit](https://roq-trading.com/docs/reference/gateways/crypto/roq-bybit/)
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-coinbase-pro/)
-* [Deribit](https://roq-trading.com/docs/reference/gateways/crypto/roq-deribit/) -- supports multicast
+* [Deribit](https://roq-trading.com/docs/reference/gateways/crypto/roq-deribit/) -- supports SBE/multicast
 * Gate.io [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate-futures/)
+* HTX [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-htx/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-htx-futures/)
 * Huobi [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi-futures/)
+* [Hyperliquid](https://roq-trading.com/docs/reference/gateways/crypto/roq-hyperliquid/)
 * Kraken [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kraken-futures/)
-* KuCoin [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-futures/)
+* KuCoin [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin/), [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-futures/) and [PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-pro/)
 * [OKX](https://roq-trading.com/docs/reference/gateways/crypto/roq-okx/)
+* Phemex [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-phemex/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-phemex-futures/)
+* [Starbase](https://roq-trading.com/docs/reference/gateways/crypto/roq-starbase/) -- EXPERIMENTAL
 
 ## Bridges
 
