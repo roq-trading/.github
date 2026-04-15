@@ -45,23 +45,23 @@ Strategies should preferably be implemented using C++26.
 
 ### Cryptocurrency
 
-* Aster [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-aster-futures/)
-* Binance [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance-futures/)
+* Aster [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-aster-futures/)
+* Binance [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance/) and [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance-futures/)
 * [Bitget](https://roq-trading.com/docs/reference/gateways/crypto/roq-bitget/)
 * [BitMEX](https://roq-trading.com/docs/reference/gateways/crypto/roq-bitmex/)
-* BTSE [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-btse-futures/)
+* BTSE [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-btse-futures/)
 * [Bybit](https://roq-trading.com/docs/reference/gateways/crypto/roq-bybit/)
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-coinbase-pro/)
 * [Deribit](https://roq-trading.com/docs/reference/gateways/crypto/roq-deribit/)
-* Gate.io [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate-futures/)
-* HTX [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-htx/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-htx-futures/)
-* Huobi [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi-futures/)
+* Gate.io [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate/) and [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-gate-futures/)
+* HTX [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-htx/) and [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-htx-futures/)
+* Huobi [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi/) and [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-huobi-futures/)
 * [Hyperliquid](https://roq-trading.com/docs/reference/gateways/crypto/roq-hyperliquid/)
-* Kraken [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kraken/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kraken-futures/)
-* KuCoin [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin/), [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-futures/) and [PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-pro/)
+* Kraken [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kraken/) and [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kraken-futures/)
+* KuCoin [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin/), [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-futures/) and [PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-kucoin-pro/)
 * [OKX](https://roq-trading.com/docs/reference/gateways/crypto/roq-okx/)
-* Phemex [spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-phemex/) and [futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-phemex-futures/)
-* [Starbase](https://roq-trading.com/docs/reference/gateways/crypto/roq-starbase/) -- EXPERIMENTAL
+* Phemex [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-phemex/) and [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-phemex-futures/)
+* Deribit's [Starbase](https://roq-trading.com/docs/reference/gateways/crypto/roq-starbase/) -- EXPERIMENTAL
 
 ## Bridges
 
