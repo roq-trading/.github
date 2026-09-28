@@ -48,7 +48,6 @@ Strategies should preferably be implemented using C++26.
 * Aster [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-aster-futures/)
 * Binance [Spot](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance/) and [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-binance-futures/)
 * [Bitget](https://roq-trading.com/docs/reference/gateways/crypto/roq-bitget/)
-* [BitMEX](https://roq-trading.com/docs/reference/gateways/crypto/roq-bitmex/)
 * BTSE [Futures](https://roq-trading.com/docs/reference/gateways/crypto/roq-btse-futures/)
 * [Bybit](https://roq-trading.com/docs/reference/gateways/crypto/roq-bybit/)
 * [Coinbase PRO](https://roq-trading.com/docs/reference/gateways/crypto/roq-coinbase-pro/)
