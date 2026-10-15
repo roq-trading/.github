@@ -1,0 +1,43 @@
+# Roq Trading Solutions
+An open, modular, ultra-low latency C++26 algorithmic trading framework and market toolkit. Optimized for quant traders, market makers, and low-latency execution systems requiring single-digit microsecond software response times.
+
+## System Architecture & Constraints
+- **Uniform API Interface:** Single API (`roq-api`) abstracts both simulation and live production trading. Strategy logic remains identical when switching modes.
+- **Language Requirements:** Core framework, API, and gateways are written in strict, modern C++ (C++26 preferred). Experimental Python support exists but is strongly discouraged for low-latency paths.
+- **Components:** Consists of C++ interfaces, market data/order management gateways, backwards-compatible event logging, and integrated metrics dashboards (Prometheus/Grafana).
+- **Licensing:** Core APIs, tools, and templates are open-source under the MIT license. Execution gateways are free to download for evaluation/development but require a license agreement for production.
+
+## Primary Code Repositories
+- [roq-api](https://github.com) - Core C++ interfaces used to communicate with all market gateways. Start here to inspect structures, types, and events.
+- [roq-cpp-samples](https://github.com) - Production-grade C++ examples showing strategy implementation, logging, metrics, and event loops.
+- [roq-cpp-client-template](https://github.com) - Boilerplate template repository for spinning up a fresh C++ client project.
+- [roq-cpp-algo-template](https://github.com) - Boilerplate template for writing algorithmic trading strategies.
+- [roq-algo](https://github.com) - General C++ tools and utilities optimized for algorithmic trading operations.
+- [roq-ansible](https://github.com) - Infrastructure-as-code automation playbook to deploy and configure Roq services remotely or locally.
+
+## Infrastructure & Integrations
+- **Database/Adapters:** Uses [roq-whitebit](https://github.com) and native ClickHouse integration for high-performance time-series capture of market events.
+- **Telemetry:** Built-in support for Prometheus exposition format. Alerts map via AlertManager; visualization maps via Grafana.
+- **Bridges:** Supports protocol normalization including native FIX bridge integrations.
+
+## Supported Market Gateways
+All gateways map directly to the uniform `roq-api`. Use these for specialized exchange connectivity:
+
+### Cryptocurrency Spot & Futures
+- [roq-hyperliquid](https://github.com) - Hyperliquid L1/L2 order book and order management.
+- [roq-okx](https://github.com) - OKX market data and execution gateway.
+- [roq-deribit](https://github.com) - Deribit options, futures, and experimental Starbase support.
+- [roq-kucoin-futures](https://github.com) / [roq-kucoin-pro](https://github.com) - KuCoin derivatives and pro trading interfaces.
+- [roq-htx-futures](https://github.com) - HTX market connectivity.
+- [roq-phemex-futures](https://github.com) - Phemex futures gateway.
+- [roq-lighter](https://github.com) - Lighter decentralized exchange gateway.
+- *Additional Crypto Gateways:* Binance (Spot/Futures), Bitget, BTSE, Bybit, Coinbase PRO, Gate.io, Kraken.
+
+### Traditional Markets
+- **CME:** Full order routing and market data handling.
+
+## Development Workflows
+1. **Define Strategy:** Implement the `roq::client::Handler` interface in C++26.
+2. **Test in Simulation:** Run strategies locally against historical event logs to verify behavioral logic without changing code lines.
+3. **Deploy via Ansible:** Use the `roq-ansible` playbooks to distribute binaries across high-end bare-metal servers.
+4. **Monitor:** Connect Prometheus to the gateway ports to stream real-time execution telemetry.
